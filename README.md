@@ -1,6 +1,6 @@
 # introgeodf
 
-Resolución de los problemas con Geodatframe 
+Resolución de los problemas con Geodatframe   https://halabbi.github.io/introgeodf/
 
 EJERCICIO 1: Se tomó un mapa sin proyección (también conocido como "datos sin CRS" o sistema de referencia de coordenadas) y se le asignó un sistema de referencia adecuado. Una vez proyectado, se calculó el centroide del país. De ello se obtuvieron las capas de las ciudades y ríos del país usando el centroide como referencia o como un punto clave en el análisis.
 
